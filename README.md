@@ -1,3 +1,5 @@
+<h2 align="center">Data Science Projects Portfolio</h2>
+
 # VenkataKanaparthi
 
 ### [Project 1: Model to Predict BodyFat](https://github.com/sandy1987827/DSC680-Applied-Data-Science/tree/main/Project1_BodyFatPrediction)
